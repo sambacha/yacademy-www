@@ -1,0 +1,5 @@
+.cache/
+.public/
+.build/
+node_modules/
+.github/
