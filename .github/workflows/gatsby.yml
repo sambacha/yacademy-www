@@ -29,10 +29,18 @@ jobs:
          restore-keys: |
            ${{ runner.os }}-yarn-
 
-    - name: lerna install, build, and test
+    - name: yarn install, build, and test
       run: |
         cd www/
         yarn install
         yarn run build
       env:
         CI: ''
+
+    - name: URL Health Check
+  # You may pin to the exact commit or the version.
+  # uses: Jtalk/url-health-check-action@0cf5534e0b67f26ce9e0ffa8fb7f02e555261f44
+      uses: Jtalk/url-health-check-action@v1.4
+      with:
+    # Target URL(s), split by |
+         url: https://yacademy.netlify.app
