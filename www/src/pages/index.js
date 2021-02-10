@@ -10,7 +10,7 @@ export default function IndexPage() {
     <Layout>
       <Hero
         heading="Build something amazing"
-        text="Reiciendis quia totam esse. Dicta minus iusto quisquam doloribus temporibus."
+        text="Seeding a better Web3"
         image={{
           src: "/images/crayon-982.png",
           alt: "Hero image",
@@ -24,12 +24,12 @@ export default function IndexPage() {
       <Cards
         subheading="DeFi and Smart Contracts"
         heading="Learn from the best"
-        text="Dicta minus iusto quisquam doloribus temporibus."
+        text="Curated material from industry leading professionals"
         cards={[
           {
             heading: "Engineering Guidance",
             text:
-              "Vestibulum ante ipsum primis in faucibus orci luctus et primis in faucibus ultrices.",
+              "From leading Staff Engineers at the most well-known projects.",
             image: {
               src: "/images/crayon-welcome.png",
               alt: "Image",
@@ -57,7 +57,7 @@ export default function IndexPage() {
           {
             heading: "Ecosystem Support",
             text:
-              "Vestibulum ante ipsum primis in faucibus orci luctus et primis in faucibus ultrices.",
+              "More than just development and coding, join an extensive networking circle",
             image: {
               src: "/images/crayon-come-back-later.png",
               alt: "Image",
