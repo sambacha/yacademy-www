@@ -1,6 +1,6 @@
-# reflexjs/gatsby-starter
+# YAcademy Gatsby
 
-This is the base starter for kicking off your Gatsby project with Reflexjs.
+Built with Gatsby and Reflexjs.
 
 ## Getting Started
 
