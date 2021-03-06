@@ -40,7 +40,7 @@ jobs:
     - name: URL Health Check
   # You may pin to the exact commit or the version.
   # uses: Jtalk/url-health-check-action@0cf5534e0b67f26ce9e0ffa8fb7f02e555261f44
-      uses: Jtalk/url-health-check-action@v1.4
+      uses: Jtalk/url-health-check-action@1.5
       with:
     # Target URL(s), split by |
          url: https://yacademy.netlify.app
