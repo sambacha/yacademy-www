@@ -15,7 +15,7 @@
     "gatsby-plugin-reflexjs": "^0.1.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "reflexjs": "^1.0.0",
+    "reflexjs": "1.1.0",
     "typeface-inter": "^1.1.13"
   },
   "devDependencies": {
