@@ -3913,6 +3913,11 @@ csstype@^3.0.2:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.0.6.tgz#865d0b5833d7d8d40f4e5b8a6d76aea3de4725ef"
   integrity sha512-+ZAmfyWMT7TiIlzdqJgjMb7S4f1beorDbWbsocyK4RaiqA5RTX3K14bnBWmmA9QEM0gRdsjyyrEmcyga8Zsxmw==
 
+csstype@^3.0.6:
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.0.8.tgz#d2266a792729fb227cd216fb572f43728e1ad340"
+  integrity sha512-jXKhWqXPmlUeoQnF/EhTtTl4C9SnrxSH/jZUih3jmO6lBKr99rP3/+FmrMj4EFpOXzMtXHAZkd3x0E6h6Fgflw==
+
 cyclist@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/cyclist/-/cyclist-1.0.1.tgz#596e9698fd0c80e12038c2b82d6eb1b35b6224d9"
@@ -9712,17 +9717,17 @@ redux@^4.0.5:
     loose-envify "^1.4.0"
     symbol-observable "^1.2.0"
 
-reflexjs@^1.0.0:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/reflexjs/-/reflexjs-1.0.1.tgz#e26842a3c7a02281f65a5283fa086faf86d0de30"
-  integrity sha512-+c8t3WOTepOZKG2QWvrrhpkaGtOFE/RzchlFSBrKqpHDFvGlgV7mhzMfYQb3qzHZQ7uZ8CSjXwCOHRXIIFglUA==
+reflexjs@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/reflexjs/-/reflexjs-1.1.0.tgz#ac8f674b60624a9e70019b285845d93ec3e3324d"
+  integrity sha512-+d0lEdMQXm5fOsqGjfyWLXkQJAQlgAIP4VSux48zWCaRrLyVk6EHmOXYpAmcbJXd/uC+AvEMNIPw+rrNqnDWDA==
   dependencies:
     "@babel/plugin-transform-react-jsx" "^7.12.5"
     "@emotion/core" "^10.0.0"
     babel-plugin-jsx-pragmatic "^1.0.2"
-    csstype "^3.0.2"
+    csstype "^3.0.6"
     deepmerge "^4.2.2"
-    theme-ui "^0.4.0-rc.5"
+    theme-ui "^0.4.0-rc.14"
 
 regenerate-unicode-properties@^8.2.0:
   version "8.2.0"
@@ -11103,7 +11108,7 @@ text-table@0.2.0, text-table@^0.2.0:
   resolved "https://registry.yarnpkg.com/text-table/-/text-table-0.2.0.tgz#7f5ee823ae805207c00af2df4a84ec3fcfa570b4"
   integrity sha1-f17oI66AUgfACvLfSoTsP8+lcLQ=
 
-theme-ui@^0.4.0-rc.5:
+theme-ui@^0.4.0-rc.14:
   version "0.4.0-rc.14"
   resolved "https://registry.yarnpkg.com/theme-ui/-/theme-ui-0.4.0-rc.14.tgz#67856dd8302e621ad55f7687a18d483b506c0706"
   integrity sha512-ciaGwsv9cRskUAukHSzMHdRXhqpweV8xAsywkE61gBg9msAfeI6MyeOU7HCseK4U9/Ppu3NNJExI32CK4BMDtg==
