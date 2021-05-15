@@ -5525,10 +5525,10 @@ gatsby-plugin-page-creator@^2.9.0:
     globby "^11.0.1"
     lodash "^4.17.20"
 
-gatsby-plugin-reflexjs@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-reflexjs/-/gatsby-plugin-reflexjs-0.1.1.tgz#eb3633872eb59222680d3062e1ed570aae30b1ad"
-  integrity sha512-7q829THeJJ7/F0qwT9Ovf06yQmFUZp6uFJhI0YA+tOwTDXqO5CGs5uN6sBzjOJZ4Xbxd8WGJvRuf5M79mfUErQ==
+gatsby-plugin-reflexjs@0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-reflexjs/-/gatsby-plugin-reflexjs-0.2.0.tgz#054179e42918d0f3dfefc6c6c4aacc86d3a9a0a5"
+  integrity sha512-uKVnLqfVJK+9aGMbTXLVH0CKcw6HqiDPqCiP5sSpVtzv7Sxk93fLBAZlKa7TJzxUFQ6ZhsN3U06hdahsr3EBPg==
 
 gatsby-plugin-typescript@^2.11.0:
   version "2.11.0"
