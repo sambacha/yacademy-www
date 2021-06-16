@@ -10,8 +10,8 @@
     "preview": "gatsby build && gatsby serve"
   },
   "dependencies": {
-    "babel-preset-gatsby": "^0.8.0",
-    "gatsby": "^2.26.1",
+    "babel-preset-gatsby": "1.7.1",
+    "gatsby": "3.7.2",
     "gatsby-plugin-reflexjs": "^0.1.1",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
